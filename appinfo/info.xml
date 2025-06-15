@@ -52,7 +52,7 @@ Memories is a *batteries-included* photo management solution for Nextcloud with 
     </settings>
     <navigations>
         <navigation>
-            <name>Memories</name>
+            <name>Photos</name>
             <route>memories.Page.main</route>
         </navigation>
     </navigations>
